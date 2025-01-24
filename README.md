@@ -2,4 +2,4 @@
 ---
 
 ## **About Me**
-- I'am Data Analyst, Data Engineer
+- I'am Data Analyst | Data Engineer
