@@ -7,7 +7,7 @@ Data Analyst | Data Engineer
 * 🔭 completed BCA 
 * 👯 Open to collaborating on Data Analytics, Python Automation, and EDA Analytics projects
 * 💬 Ask me about SQL, Python, Data Visualization.
-* 📫 Reach me at: sathya.k6055@gmail.com
+* 📫 Reach me at: sathya.kumar.s1212@gmail.com
 
 ----
 # 🌐 Portfolio
